@@ -1,0 +1,25 @@
+{
+  "name": "waifulabsbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^4.3.0",
+    "waifulabs": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpeckyYT/WaifuLabsBot.git"
+  },
+  "author": "SpeckyYT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpeckyYT/WaifuLabsBot/issues"
+  },
+  "homepage": "https://github.com/SpeckyYT/WaifuLabsBot#readme",
+  "description": "Telegram bot for random waifu images"
+}
